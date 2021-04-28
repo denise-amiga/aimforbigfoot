@@ -1,0 +1,27 @@
+[submodule "nad-lab-godot-projects"]
+	path = nad-lab-godot-projects
+	url = git@github.com:aimforbigfoot/nad-lab-godot-projects.git
+[submodule "dna-project-repo"]
+	path = dna-project-repo
+	url = git@github.com:aimforbigfoot/dna-project-repo.git
+[submodule "simplecharactercam"]
+	path = simplecharactercam
+	url = git@github.com:aimforbigfoot/simplecharactercam.git
+[submodule "genetic-algorithm-in-godot"]
+	path = genetic-algorithm-in-godot
+	url = git@github.com:aimforbigfoot/genetic-algorithm-in-godot.git
+[submodule "decsionmaker-4-way"]
+	path = decsionmaker-4-way
+	url = git@github.com:aimforbigfoot/decsionmaker-4-way.git
+[submodule "colortypetool"]
+	path = colortypetool
+	url = git@github.com:aimforbigfoot/colortypetool.git
+[submodule "onlyonetask"]
+	path = onlyonetask
+	url = git@github.com:aimforbigfoot/onlyonetask.git
+[submodule "seconds-left-today"]
+	path = seconds-left-today
+	url = git@github.com:aimforbigfoot/seconds-left-today.git
+[submodule "great-grateful-journal"]
+	path = great-grateful-journal
+	url = git@github.com:aimforbigfoot/great-grateful-journal.git
